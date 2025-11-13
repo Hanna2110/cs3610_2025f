@@ -13,7 +13,7 @@ This requires a bit of setup.
    <img width="909" height="548" alt="image" src="https://github.com/user-attachments/assets/f9528753-8772-4ee9-8d53-955e0e96f456" />
    
    1.2 Open the Project in VSCode
-     - clone a repository (you will be provided with a link) & open it in your workspace
+     - clone a repository (you will be provided with a link) & open it in your workspace (I am using my repo for cs3220 course as an example here)
        <img width="1048" height="131" alt="image" src="https://github.com/user-attachments/assets/5c7d7653-5462-457e-a35f-cb0c409e8a94" />
        <img width="1396" height="787" alt="image" src="https://github.com/user-attachments/assets/3a0f0cae-38cf-464d-90b6-dfb65e23b2f3" />
        <img width="545" height="213" alt="image" src="https://github.com/user-attachments/assets/ec358bfe-1d45-45be-9fb2-fe9185e675f3" />
