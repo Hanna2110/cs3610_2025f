@@ -10,6 +10,7 @@ This requires a bit of setup.
 0. Create a New Repository (cs3610_fall2025_NWP) on GitHub
 
 1. Create a Virtual Environment for your Project in VSCode:
+2. 
    1.1 Open a new VSCode session
    <img width="909" height="548" alt="image" src="https://github.com/user-attachments/assets/f9528753-8772-4ee9-8d53-955e0e96f456" />
    
@@ -45,7 +46,7 @@ This requires a bit of setup.
           __pycache__/
           *.pyc
     
-2. Complete your project(Working With Branches!!!):
+3. Complete your project(Working With Branches!!!):
    
    2.1 Create a new branch (for ex. cs3610_DP_A1) and switch to it (or Create a new branch from .... /my branch for the assignment from my repo/..)
    
