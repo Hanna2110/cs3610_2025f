@@ -6,6 +6,7 @@ They will direct you to implement tasks (as your classes).
 
 
 This requires a bit of setup.
+
 0. Create a New Repository (cs3610_fall2025_NWP) on GitHub
 
 1. Create a Virtual Environment for your Project in VSCode:
