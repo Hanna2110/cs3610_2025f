@@ -58,6 +58,9 @@ This requires a bit of setup.
 
 
    [![Video Tutorial](https://img.youtube.com/vi/YBY1TM7Lq-g/0.jpg)](https://www.youtube.com/watch?v=YBY1TM7Lq-g)
+
+
+   An Introduction To Scripting in Python 3 -> https://github.com/jvdkwast/Python3_Jupyter_Notebook
    
 
 
